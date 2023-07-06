@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dreamsaviors/light-trans.git"
+    "url": "git+https://github.com/dreamsavior/light-trans.git"
   },
   "keywords": [
     "localization",
@@ -20,7 +20,7 @@
   "author": "Dreamsavior",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dreamsaviors/light-trans/issues"
+    "url": "https://github.com/dreamsavior/light-trans/issues"
   },
-  "homepage": "https://github.com/Dreamsaviors/light-trans#readme"
+  "homepage": "https://github.com/dreamsavior/light-trans#readme"
 }
